@@ -22,7 +22,7 @@ define('LOCATION', basename(__FILE__));
 include('bootstrap.php');
 
 ################################################
-//Testing some variable securing
+//Multi-Database testing!
 
 $user = $blowfis->_database->prepare('SELECT * FROM users WHERE id = ?')
         ->bindParameters(array(1))->execute();

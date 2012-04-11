@@ -1,0 +1,2 @@
+Only here so Github can recognize this directory as a directory..
+Really stupid of theme to ignore empty directories?
